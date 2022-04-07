@@ -1,0 +1,126 @@
+naomyaromaes22SIMNome do album:.............namoe
+Nome do Artista:.............atar 
+Data Album:.............1989 
+ultimo album: SIM 
+
+
+Nome do album:.............a
+Nome do Artista:.............e 
+Data Album:.............2698 
+ultimo album: NÃO 
+
+
+Nome do album:.............ww
+Nome do Artista:.............ee 
+Data Album:.............eee 
+ultimo album: NÃO 
+
+
+Nome do album:.............ee
+Nome do Artista:.............eee 
+Data Album:.............eeee 
+ultimo album: SIM 
+
+
+Nome do album:.............qw
+Nome do Artista:.............eeq 
+Data Album:.............wqqw 
+ultimo album: NÃO 
+
+
+Nome do album:.............qwww
+Nome do Artista:.............eeqee 
+Data Album:.............wqqwqq 
+ultimo album: SIM 
+
+
+Nome do album:.............e
+Nome do Artista:.............re 
+Data Album:............. 
+ultimo album: SIM 
+
+
+Nome do album:.............ee
+Nome do Artista:.............re 
+Data Album:.............ee 
+ultimo album: NÃO 
+
+
+Nome do album:.............e
+Nome do Artista:.............e 
+Data Album:.............e 
+ultimo album: SIM 
+
+
+Nome do album:.............e
+Nome do Artista:.............r 
+Data Album:.............e 
+ultimo album: SIM 
+
+
+Nome do album:.............e
+Nome do Artista:.............e 
+Data Album:.............e 
+ultimo album: SIM 
+
+
+Nome do album:.............ee
+Nome do Artista:.............e 
+Data Album:.............e 
+ultimo album: SIM 
+
+
+Nome do album:.............we
+Nome do Artista:.............e 
+Data Album:.............e 
+ultimo album: SIM 
+
+
+Nome do album:.............e
+Nome do Artista:.............e 
+Data Album:.............e 
+ultimo album: NÃO 
+
+
+Nome do album:.............e
+Nome do Artista:.............r 
+Data Album:.............t 
+ultimo album: SIM 
+
+
+Nome do album:.............e
+Nome do Artista:.............e 
+Data Album:.............e 
+ultimo album: SIM 
+
+
+Nome do album:.............rt
+Nome do Artista:.............t 
+Data Album:.............e 
+ultimo album: SIM 
+
+
+Nome do album:.............e
+Nome do Artista:.............rww 
+Data Album:.............ww 
+ultimo album: SIM 
+
+
+Nome do album:.............r
+Nome do Artista:.............trr 
+Data Album:.............rr 
+ultimo album: SIM 
+
+
+Nome do album:.............eee
+Nome do Artista:.............rrr 
+Data Album:.............ttt 
+ultimo album: SIM 
+
+
+Nome do album:.............e
+Nome do Artista:.............r 
+Data Album:.............tt 
+ultimo album: SIM 
+
+
